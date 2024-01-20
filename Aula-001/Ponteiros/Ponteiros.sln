@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ponteiros", "Ponteiros.vcxproj", "{141DE3F6-3914-4469-B8A2-C0866261ECBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Debug|x64.ActiveCfg = Debug|x64
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Debug|x64.Build.0 = Debug|x64
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Debug|x86.Build.0 = Debug|Win32
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Release|x64.ActiveCfg = Release|x64
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Release|x64.Build.0 = Release|x64
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Release|x86.ActiveCfg = Release|Win32
+		{141DE3F6-3914-4469-B8A2-C0866261ECBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA9F94D-74DD-40CD-B23D-F5D73A1010D6}
+	EndGlobalSection
+EndGlobal

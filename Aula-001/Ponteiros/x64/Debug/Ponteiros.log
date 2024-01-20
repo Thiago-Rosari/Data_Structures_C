@@ -1,0 +1,6 @@
+﻿  Origem.c
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-001\Ponteiros\Origem.c(14,9): warning C4477: 'printf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'int *'
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-001\Ponteiros\Origem.c(14,9): warning C4313: 'printf': '%x' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-001\Ponteiros\Origem.c(15,9): warning C4477: 'printf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'int *'
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-001\Ponteiros\Origem.c(15,9): warning C4313: 'printf': '%x' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+  Ponteiros.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-001\Ponteiros\x64\Debug\Ponteiros.exe
