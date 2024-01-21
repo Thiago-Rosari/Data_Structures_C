@@ -1,0 +1,5 @@
+﻿  Origem.c
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-002\Armazenando dados\Origem.c(16,24): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-002\Armazenando dados\Origem.c(17,24): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-002\Armazenando dados\Origem.c(18,76): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Armazenando dados.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-002\Armazenando dados\x64\Debug\Armazenando dados.exe
