@@ -1,3 +1,0 @@
-﻿  Origem.c
-C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-002\Ficha_aluno\Origem.c(25,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\th_ma\Documentos\ESTUDOS\ESTÁCIO\2_Semestre\Data_Structures_C\Aula-002\Ficha_aluno\Origem.c(28,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
